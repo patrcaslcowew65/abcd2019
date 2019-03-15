@@ -1,4 +1,4 @@
 <?php
-header("Location: https://payingitforwardbeading.com/iv-bag-cover);
+header("Location: https://payingitforwardbeading.com/iv-bag-cover");
 die();
 ?>
